@@ -5,8 +5,8 @@ export default function About() {
     <div>
       <h2>Country Directory</h2>
       <p>
-        the Country Directory is a react application for providing a decent
-        amount of information about a country. I want to give thanks
+        Country Directory is a react application for providing a decent amount
+        of information about a country. I want to give thanks
         <b> https://restcountries.eu/</b> for providing a nice API.
       </p>
       <br />
